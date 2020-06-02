@@ -21,7 +21,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">Buttons</header>
+        <header className="App-header">Unit 4 Final Assessment</header>
         <main>
           <CircleSelector
             selButtonIdx={this.state.selButtonIdx}
